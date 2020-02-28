@@ -11,4 +11,4 @@ author: joshdholtz
 categories: blog
 ---
 
-We started from nothing and now we here! Some updated text
+We started from nothing and now we here! Some updated text and some more
